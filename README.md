@@ -19,7 +19,7 @@
 
 ## Section
 
-### [Section 4 계산](https://github.com/Pad-Todd/CPP/tree/master/Seciton4, "Section 4 계산") 📝
+### [Section 4 계산](https://github.com/Pad-Todd/CPP/tree/master/Seciton4) 📝
 
     "정확한 결과가 필요하지 않다면 얼마든지 빠르게 만들 수 있다." 
     - 제럴드 M. 와인버그(Gerald M. Weinberg) - 
