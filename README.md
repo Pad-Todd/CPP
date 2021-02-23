@@ -4,7 +4,6 @@
     C++를 사용하여 프로그래밍의 원리를 배운다.
 
 
----
 
 ## Road-Map 🤔
 
@@ -16,11 +15,11 @@
 - [ ] Section9 
 - [ ] Section10 
 
----
+
 
 ## Section
 
-### [Section 4 계산](/Section4/README.md, "Section 4 계산") 📝
+### [Section 4 계산](https://github.com/Pad-Todd/CPP/tree/master/Seciton4) 📝
 
     "정확한 결과가 필요하지 않다면 얼마든지 빠르게 만들 수 있다." 
     - 제럴드 M. 와인버그(Gerald M. Weinberg) - 
